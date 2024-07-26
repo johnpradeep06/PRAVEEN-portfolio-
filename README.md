@@ -1,3 +1,1 @@
-
-"# trial_1" 
-"# trial_1" 
+A Personal portfolio made with react 
